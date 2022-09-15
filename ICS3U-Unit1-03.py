@@ -9,7 +9,7 @@ def main():
 
     print("Hello, World!")
 
-    print("n\Done.")
+    print("\nDone.")
 
 
 if __name__ == "__main__":
